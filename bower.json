@@ -1,0 +1,21 @@
+{
+  "name": "final-scroll",
+  "description": "ultimate scrolling plugin",
+  "main": "index.js",
+  "authors": [
+    "Rafal2228 <rafal2228@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fetch": "^1.0.0",
+    "es6-promise": "^3.2.2"
+  }
+}
